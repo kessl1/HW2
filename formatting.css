@@ -1,1 +1,10 @@
-"Nothing to see here yet"
+body{background:yellow; font-family: "Times New Roman";}
+h1{text-align:center; font-weight:bold; font-style:italic;}
+.centerDiv{
+	margin: 0 auto;
+	border: 3px solid #0971B2;
+	width: 80%;
+	background-color:white;
+	padding: 20px;
+}
+.algnLeft{text-align:left;}
