@@ -1,10 +1,28 @@
-body{background:yellow; font-family: "Times New Roman";}
-h1{text-align:center; font-weight:bold; font-style:italic;}
+body{background:#ECFFF0; font-family: "Times New Roman";}
+h1{text-align:left; font-weight:bold; font-style:italic;}
+a{text-align:left; font-weight:bold; font-size:150%; color:#246A35}
 .centerDiv{
 	margin: 0 auto;
-	border: 3px solid #0971B2;
+	border: 3px solid #6A5354;
 	width: 80%;
 	background-color:white;
 	padding: 20px;
 }
 .algnLeft{text-align:left;}
+.algnCenter{text-align:center;}
+.algRight{text-align:right;}
+
+.boxMdl{
+	width: 300px;
+    border: 15px solid #51B76A;
+    padding: 0px;
+    margin: 25px;
+}
+
+.italicize{
+font-style:italic;
+}
+
+.underlined{
+text-decoration:underline;
+}
